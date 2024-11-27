@@ -11,7 +11,7 @@ ___
 _**→ Description of what I do**_
 
 My main focus is on creating physics engines and helper-scripts for physics applications mainly in Python and C++.
-I also had some experience with:
+I've also had some experience with:
 - Python Scripting and basic game development
 - Frontend Web Design / Angular / Node.js
 - PHP & SQL Web Backend
